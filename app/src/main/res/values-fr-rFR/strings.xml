@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ConverterApp</string>
+    <string name="choose_your_currency">Choisissez votre currency</string>
+    <string name="enter_value">Entrer la valeur</string>
+    <string name="_0">0</string>
+    <string name="convert">Convertir</string>
+</resources>
